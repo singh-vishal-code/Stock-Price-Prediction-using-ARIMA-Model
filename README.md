@@ -36,7 +36,4 @@ Jupyter Notebook – Analysis environment
 **Expected Outputs**
 A plot comparing actual vs. predicted stock prices.
 Forecasted prices for the next N days.
-
 Model summary with ARIMA coefficients.
-
-▶ How to Run
